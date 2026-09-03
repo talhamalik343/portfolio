@@ -236,7 +236,7 @@ function Hero() {
             <div className="relative">
               <div className="ambient-glow absolute -inset-6 rounded-[2rem]" />
               <img
-                src="/talha-portrait.png"
+                src="/talha-portrait..png"
                 alt="Portrait of Malik M Talha"
                 width={320}
                 height={320}
